@@ -35,8 +35,7 @@ Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berko
 1. Clone repositori ini ke direktori web server Anda.
 
    ```
-   git clone https://github.com/fifovalle/UI-HOVER-KARTU.git
-
+   git clone https://github.com/fifovalle/UI-HOVER-KARTU-RINCIAN.git
    ```
 
 2. Buka file `index.html` di peramban web Anda.
