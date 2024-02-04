@@ -1,4 +1,4 @@
-**Selamat Datang di "UI Hover Kartu" User Interface! 🚀**
+**Selamat Datang di "UI Hover Kartu Rincian" User Interface! 🚀**
 
 Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat lunak. Dari aplikasi web hingga proyek mobile, temukan ragam proyek yang mencerminkan dedikasi saya dalam teknologi.
 
@@ -9,7 +9,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 
 ### 🚀 Fitur Utama
 
-- **User Interface:** Hover Kartu
+- **User Interface:** Hover Kartu Rincian
 
 ## 🛠️ Teknologi yang Digunakan
 
